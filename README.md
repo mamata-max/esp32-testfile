@@ -53,7 +53,7 @@ Target externalT = {
   "raw.githubusercontent.com",
   "raw.githubusercontent.com",
   443,
-  "/mamata-max/esp32-testfile/main/20MB.bin",
+  "/xxx/esp32-testfile/main/20MB.bin",
   true
 };
 
