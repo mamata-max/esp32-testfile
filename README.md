@@ -1,4 +1,4 @@
-# esp32-testfile
+// # esp32-testfile
 // ESP32  Speed Test: Internal (HTTP) vs External (HTTPS GitHub Raw)
 // -------------------------------------------------------------------------
 // • Internal  → xxx/20MB.bin  (WiFiClient)
